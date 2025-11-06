@@ -126,6 +126,14 @@ coverage/
 ../../postcss.config.js
 ../../postcss.config.js.bak
 
+# macOS screenshots and temporary items
+**/Screenshot*.png
+**/Screenshot*.jpg
+**/TemporaryItems/
+/var/folders/
+*.tmp
+*.temp
+
 # Project-specific exclusions
 frontend/public/
 setup.sh
